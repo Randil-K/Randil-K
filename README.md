@@ -54,6 +54,6 @@ Currently seeking a **Software Engineering Internship** where I can contribute t
 ---
 
 ### 📫 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 🌐 **Portfolio:** [Randil-K.github.io](https://Randil-K.github.io)
-- ✉️ **Email:** [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/randil-kaveeshwara/
+- 🌐 **Portfolio:** https://portfolio-pi-gray-vbectykayt.vercel.app/
+- ✉️ **Email:** kaweeshvera41@gmail.com
