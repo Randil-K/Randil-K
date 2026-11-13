@@ -1,8 +1,8 @@
 # Hi there, I'm Randil Kavishwara 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10B981?style=flat&logo=googlechrome)](https://Randil-K.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/randil-kaveeshwara/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail)](mailto:kaweeshvera41@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10B981?style=flat&logo=googlechrome)](https://portfolio-pi-gray-vbectykayt.vercel.app/)
 
 IT Undergraduate at the **Institute of Technology, University of Moratuwa (NDT)**. Passionate about engineering production-grade mobile applications and scalable backend systems using **Flutter**, **Java (Spring Boot)**, and **TypeScript**.
 
@@ -53,6 +53,6 @@ Currently seeking a **Software Engineering Internship** where I can contribute t
 ---
 
 ### 📫 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/randil-kaveeshwara/
-- 🌐 **Portfolio:** https://portfolio-pi-gray-vbectykayt.vercel.app/
-- ✉️ **Email:** kaweeshvera41@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/randil-kaveeshwara](https://www.linkedin.com/in/randil-kaveeshwara/)
+- 🌐 **Portfolio:** [portfolio-pi-gray-vbectykayt.vercel.app](https://portfolio-pi-gray-vbectykayt.vercel.app/)
+- ✉️ **Email:** [kaweeshvera41@gmail.com](mailto:kaweeshvera41@gmail.com)
