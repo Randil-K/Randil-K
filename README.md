@@ -46,8 +46,6 @@ Currently seeking a **Software Engineering Internship** where I can contribute t
 
 ### 📊 GitHub Activity
 
-### 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randil-K&theme=tokyonight&hide_border=true" alt="Randil's Streak Stats" />
 </p>
